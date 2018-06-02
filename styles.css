@@ -1,0 +1,16 @@
+/*Gives the bottom boarder line for below selectors*/
+div.borderone header,h1,article,footer{
+
+	border-bottom:1.7px solid black;
+}
+/*Added padding for div section*/
+div.borderone{
+	padding:15px;
+
+}
+/*Border for body as a bottom line*/
+body{
+	
+	border-bottom:1.7px solid black;
+
+}
